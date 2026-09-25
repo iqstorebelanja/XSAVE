@@ -1,0 +1,6 @@
+{
+  "name": "XSave",
+  "description": "X Twitter Video Downloader with multi-resolution extraction (1080p, 720p, 480p, 4K), live player, and AdMob integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
